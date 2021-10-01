@@ -1,3 +1,2 @@
-code use 2 spam a discord webhook with ur desired message
+code use 2 spam a discord webhook with ur message
 
-dm @pw#1337 if u need any help
